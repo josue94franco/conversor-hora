@@ -1,7 +1,7 @@
 # conversor-hora
 Programa que convierte la hora dada en números a letras
 
-##Interfaz del Código:
+## Interfaz del Código:
 El código proporcionado implementa una clase ConversorHora que se encarga de convertir la hora y los minutos proporcionados en palabras según las reglas dadas en el desafío. La interfaz consiste en:
 
 Constructor:
@@ -11,7 +11,7 @@ Método de Conversión:
 
 convertir_a_palabras(self): Convierte la hora y los minutos en palabras según las reglas especificadas y devuelve la representación en palabras de la hora.
 
-##Instrucciones para Ejecutar el Código:
+## Instrucciones para Ejecutar el Código:
 
 Requisitos previos:
 
